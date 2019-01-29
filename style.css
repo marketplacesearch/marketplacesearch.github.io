@@ -42,3 +42,7 @@ body {
   background-image:
     url(pics/back.jpg);
 }
+.test{
+	border-radius: 55%;
+	
+}
