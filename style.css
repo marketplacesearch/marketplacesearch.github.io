@@ -35,3 +35,10 @@ body {
 .topnav a.active {
   background-color: #026145;
   color: white;
+}
+body {
+  background-size: 150px;
+  background-repeat: 0;
+  background-image:
+    url(pics/back.jpg);
+}
